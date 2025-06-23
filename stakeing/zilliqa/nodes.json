@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Moonlet",
+    "address": "0xA0572935d53e14C73eBb3de58d319A9Fe51E1FC8",
+    "tokenAddress": "0x0000000000000000000000000000000000000000",
+    "poolType": "NORMAL",
+    "tokenDecimals": 18,
+    "tokenSymbol": "ZIL",
+    "minimumStake": "10000000000000000000",
+    "withdrawPeriodInMinutes": 20160
+  },
+  {
+    "name": "AtomicWallet",
+    "address": "0x2Abed3a598CBDd8BB9089c09A9202FD80C55Df8c",
+    "tokenAddress": "0xD8B61fed51b9037A31C2Bf0a5dA4B717AF0C0F78",
+    "poolType": "LIQUID",
+    "tokenDecimals": 18,
+    "tokenSymbol": "SHARK",
+    "minimumStake": "10000000000000000000",
+    "withdrawPeriodInMinutes": 20160
+  },
+  {
+    "name": "CEX.IO",
+    "address": "0xB9d689c64b969ad9eDd1EDDb50be42E217567fd3",
+    "tokenAddress": "0x0000000000000000000000000000000000000000",
+    "poolType": "NORMAL",
+    "tokenDecimals": 18,
+    "tokenSymbol": "ZIL",
+    "minimumStake": "10000000000000000000",
+    "withdrawPeriodInMinutes": 20160
+  },
+  {
+    "name": "PlunderSwap",
+    "address": "0xe0C095DBE85a8ca75de4749B5AEe0D18100a3C39",
+    "tokenAddress": "0x7B213b5AEB896bC290F0cD8B8720eaF427098186",
+    "poolType": "LIQUID",
+    "tokenDecimals": 18,
+    "tokenSymbol": "pZIL",
+    "minimumStake": "10000000000000000000",
+    "withdrawPeriodInMinutes": 20160
+  },
+  {
+    "name": "Luganodes",
+    "address": "0xC0247d13323F1D06b6f24350Eea03c5e0Fbf65ed",
+    "tokenAddress": "0x2c51C97b22E73AfD33911397A20Aa5176e7Ab951",
+    "poolType": "LIQUID",
+    "tokenDecimals": 18,
+    "tokenSymbol": "LNZIL",
+    "minimumStake": "10000000000000000000",
+    "withdrawPeriodInMinutes": 20160
+  },
+  {
+    "name": "DTEAM",
+    "address": "0x8A0dEd57ABd3bc50A600c94aCbEcEf62db5f4D32",
+    "tokenAddress": "0x0000000000000000000000000000000000000000",
+    "poolType": "NORMAL",
+    "tokenDecimals": 18,
+    "tokenSymbol": "ZIL",
+    "minimumStake": "10000000000000000000",
+    "withdrawPeriodInMinutes": 20160
+  },
+  {
+    "name": "Shardpool",
+    "address": "0x3b1Cd55f995a9A8A634fc1A3cEB101e2baA636fc",
+    "tokenAddress": "0x0000000000000000000000000000000000000000",
+    "poolType": "NORMAL",
+    "tokenDecimals": 18,
+    "tokenSymbol": "ZIL",
+    "minimumStake": "10000000000000000000",
+    "withdrawPeriodInMinutes": 20160
+  },
+  {
+    "name": "Encapsulate",
+    "address": "0x66a2bb4AD6999966616B2ad209833260F8eA07C8",
+    "tokenAddress": "0xA1Adc08C12c684AdB28B963f251d6cB1C6a9c0c1",
+    "poolType": "LIQUID",
+    "tokenDecimals": 18,
+    "tokenSymbol": "encapZIL",
+    "minimumStake": "10000000000000000000",
+    "withdrawPeriodInMinutes": 20160
+  },
+  {
+    "name": "Amazing Pool - Avely and ZilPay",
+    "address": "0xe59D98b887e6D40F52f7Cc8d5fb4CF0F9Ed7C98B",
+    "tokenAddress": "0xf564DF9BeB417FB50b38A58334CA7607B36D3BFb",
+    "poolType": "LIQUID",
+    "tokenDecimals": 18,
+    "tokenSymbol": "stZIL",
+    "minimumStake": "10000000000000000000",
+    "withdrawPeriodInMinutes": 20160
+  },
+  {
+    "name": "PathrockNetwork",
+    "address": "0xd090424684a9108229b830437b490363eB250A58",
+    "tokenAddress": "0xE10575244f8E8735d71ed00287e9d1403f03C960",
+    "poolType": "LIQUID",
+    "tokenDecimals": 18,
+    "tokenSymbol": "zLST",
+    "minimumStake": "10000000000000000000",
+    "withdrawPeriodInMinutes": 20160
+  },
+  {
+    "name": "BlackNodes",
+    "address": "0x33cDb55D7fD68d0Da1a3448F11bCdA5fDE3426B3",
+    "tokenAddress": "0x0000000000000000000000000000000000000000",
+    "poolType": "NORMAL",
+    "tokenDecimals": 18,
+    "tokenSymbol": "ZIL",
+    "minimumStake": "10000000000000000000",
+    "withdrawPeriodInMinutes": 20160
+  },
+  {
+    "name": "Lithium Digital",
+    "address": "0x35118Af4Fc43Ce58CEcBC6Eeb21D0C1Eb7E28Bd3",
+    "tokenAddress": "0x245E6AB0d092672B18F27025385f98E2EC3a3275",
+    "poolType": "LIQUID",
+    "tokenDecimals": 18,
+    "tokenSymbol": "litZil",
+    "minimumStake": "10000000000000000000",
+    "withdrawPeriodInMinutes": 20160
+  },
+  {
+    "name": "TorchWallet.io",
+    "address": "0x62269F615E1a3E36f96dcB7fDDF8B823737DD618",
+    "tokenAddress": "0x770a35A5A95c2107860E9F74c1845e20289cbfe6",
+    "poolType": "LIQUID",
+    "tokenDecimals": 18,
+    "tokenSymbol": "tZIL",
+    "minimumStake": "10000000000000000000",
+    "withdrawPeriodInMinutes": 20160
+  },
+  {
+    "name": "Stakefish",
+    "address": "0xa45114E92E26B978F0B37cF19E66634f997250f9",
+    "tokenAddress": "0x0000000000000000000000000000000000000000",
+    "poolType": "NORMAL",
+    "tokenDecimals": 18,
+    "tokenSymbol": "ZIL",
+    "minimumStake": "10000000000000000000",
+    "withdrawPeriodInMinutes": 20160
+  },
+  {
+    "name": "AlphaZIL (former Ezil)",
+    "address": "0x02376bA9e0f98439eA9F76A582FBb5d20E298177",
+    "tokenAddress": "0x0000000000000000000000000000000000000000",
+    "poolType": "NORMAL",
+    "tokenDecimals": 18,
+    "tokenSymbol": "ZIL",
+    "minimumStake": "10000000000000000000",
+    "withdrawPeriodInMinutes": 20160
+  }
+]
